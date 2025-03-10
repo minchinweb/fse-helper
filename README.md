@@ -34,3 +34,8 @@ Ideas
 - calculations
     - breakeven on owning a plane
     - breakeven on owning a pair of FBO's and flying between them
+
+Prior Art
+---------
+
+[Python library](https://github.com/fseconomy/fseconomy-python) -- seems to be by the official FSE developers, but also seems to only have the framework in place (exceptions, etc) and isn't set up for any useful API calls. Would still be useful as a starting point.
